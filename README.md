@@ -8,7 +8,7 @@ O Desenvolvimento Orientado a Comportamento (BDD) é uma abordagem de desenvolvi
 
 Neste contexto, consideramos o processo de aluguel de carros. A empresa de locação de carros desenvolveu um sistema que se comporta de maneiras diferentes, dependendo das circunstâncias da locação e do perfil do cliente.
 
-## Exemplosa6
+## Exemplos
 
 ### 1. Reserva Antecipada para um Carro Premium
 
