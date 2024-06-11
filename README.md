@@ -21,9 +21,9 @@ Neste contexto, consideramos o processo de aluguel de carros. A empresa de loca�
 - **Comportamento Esperado:** O sistema deve localizar um veículo disponível, processar a locação prontamente e aplicar uma taxa de aluguel ligeiramente mais alta devido à solicitação urgente.
 
 ### Tecnologias Utilizadas
-*Java: Linguagem de programação usada para desenvolver a aplicação.
-*Cucumber: Framework de teste que suporta BDD.
-*Maven: Ferramenta de automação e gerenciamento de projeto.
+* Java: Linguagem de programação usada para desenvolver a aplicação.
+* Cucumber: Framework de teste que suporta BDD.
+* Maven: Ferramenta de automação e gerenciamento de projeto.
 
 ### Cenário de Teste
 ![image](https://github.com/Ale-Sampaio/AF_BDD_Alexandre_223957/assets/121987957/e372bd16-0460-4052-8d49-c65f1d3aeb01)
