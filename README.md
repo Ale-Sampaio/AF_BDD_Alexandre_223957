@@ -20,7 +20,7 @@ Neste contexto, consideramos o processo de aluguel de carros. A empresa de loca�
 - **Cenário:** Um cliente necessita de um veículo utilitário de última hora, sem reserva prévia.
 - **Comportamento Esperado:** O sistema deve localizar um veículo disponível, processar a locação prontamente e aplicar uma taxa de aluguel ligeiramente mais alta devido à solicitação urgente.
 
-###Tecnologias Utilizadas
+### Tecnologias Utilizadas
 *Java: Linguagem de programação usada para desenvolver a aplicação.
 *Cucumber: Framework de teste que suporta BDD.
 *Maven: Ferramenta de automação e gerenciamento de projeto.
